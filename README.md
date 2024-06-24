@@ -1,5 +1,7 @@
 ## este é meu perfil!! 👋
 
+sou a Mariana, estou estudando tecnologia e inovação, aprendendo p5js 
+
 <!--
 **Marii00Lvss/Marii00Lvss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
