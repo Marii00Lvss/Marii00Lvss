@@ -1,6 +1,12 @@
-## este é meu perfil!! 👋
+## Bem vindo ao meu perfil!! 👋
 
-sou a Mariana, estou estudando tecnologia e inovação, aprendendo p5js 
+Sou a Mariana, estou estudando tecnologia e inovação na rede estadual do ensino médio
+
+No p5j5 estamos aprendendo a programar
+
+O GitHub estamos guardando os projetos 
+
+Contato: 000010897228904sp@al.educacao.sp.gov.br
 
 <!--
 **Marii00Lvss/Marii00Lvss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
